@@ -1,0 +1,739 @@
+
+
+/*Task2 EDUCORE*/
+
+
+/*Universal*/
+
+
+/*header*/
+
+header{
+	width: 100%;
+	margin: 0 auto;
+
+}
+
+
+.logocontainer{
+	background: #171717;
+
+}
+
+
+.logonav{
+	
+	max-width: 980px;
+	margin: 0 auto;
+}
+
+
+.logonav img{
+
+	    padding: 33px 0px 41px 22px;
+}
+
+.mobilecontainer{
+	display: none;
+}
+
+.mobileheadcontainer{
+	display: none;
+}
+
+
+.headertitle{
+
+	max-width: 980px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 29px;
+	color: #ffffff;
+	padding-top: 25px;
+	padding-bottom: 15px;
+	line-height: 40px;
+}
+
+#titlebold{
+	font-family: 'Montserrat', sans-serif;
+		font-weight: bold;
+}
+
+
+
+.titlecontainer{
+	width: 100%;
+	margin: 0 auto;
+	background: #4c4c4c;
+}
+
+
+
+
+
+.bannercontainer{
+	background-image: url(../desktopimages/banner.png);
+	 background-size: 100% 100%;
+	background-repeat: no-repeat;
+	
+}
+
+.banner{
+	
+	max-width: 980px;
+	margin: 0 auto;
+	position: relative;
+	padding: 265px 0px;
+
+}
+
+
+.registerform{
+	max-width: 463px;
+	height: 588px;
+	background-color: #2f2f2f;
+	overflow: visible;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	top: 0px;
+    right: 0px;
+}
+
+#direction{
+	position: absolute;
+    display: block;
+    padding-top: 0px;
+}
+
+.bannertext h1{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 27.5px;
+	font-size: 28px;
+	color: #ffffff;
+
+}
+
+.bannertext p{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400px;
+	font-size: 13.1px;
+	color: #ffffff;
+    padding: 6px;
+
+
+}
+
+form input{
+
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 13.5px;
+
+}
+
+#padbot{
+	padding-bottom: 19px; 
+}
+
+.guarantee{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 10.5px;
+	font-weight: 700;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	border-bottom: 2px solid #3374a8;
+
+
+}
+
+
+.served{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13.5px;
+	font-weight: 700;
+	color: #ffffff;
+	padding-top: 15px;
+	padding-bottom: 20px;
+
+
+
+}
+
+
+
+
+form input{
+	padding: 16px 122px 17px 20px;
+	margin-bottom: 8px;
+
+}
+
+#dropdown{
+	
+	padding: 16px 192px 17px 14px;
+	margin-bottom: 8px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 13.5px;
+	color: #b3bac5;
+
+}
+
+
+.submitbutton{
+
+	width: 334px;
+	height: 55px;
+	background: #ec6334;
+	text-align: center;
+	margin-top: 20px;	
+	
+	display: inline-block;
+   
+
+}
+
+.submitbutton a{
+	color: #ffffff;
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	font-size: 15.5px;
+	 padding-top: 22px;
+    display: block;
+}
+
+
+
+
+/*.submitbutton span{
+
+	color: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	font-size: 10.5px;
+	display: inline-block;
+    padding-top: 20px;
+
+}*/
+
+
+/*HeaderEnd*/
+
+
+/*Content*/
+
+
+.companycontainer{
+	width: 100%;
+	margin: 0 auto;
+}
+
+.companies{
+	max-width: 980px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.companies span{
+
+	display: inline-block;
+	padding-top: 108px;
+	padding-bottom: 36px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 18.01px;
+	color: #a2a2a6;
+
+
+
+}
+
+
+.clients{
+	padding-bottom: 67px;
+
+}
+
+
+
+#adobe{
+	display: inline-block;
+	padding-right: 44px;
+
+}
+
+#twitch{
+	display: inline-block;
+	padding-right: 44px;
+}
+
+#linkedin{
+	display: inline-block;
+	padding-right: 44px;
+}
+
+#cbs{
+	display: inline-block;
+
+}
+
+
+
+.featurescontainer{
+	width: 100%;
+	margin: 0 auto;
+	background: #2676a5;
+
+}
+
+.features{
+	
+	max-width: 980px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 56px;
+	padding-bottom: 34px;
+}
+
+
+.features p{
+	font-family: 'Nobile', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	color: #ffffff;
+	padding-bottom: 5px;
+}
+
+.features img{
+	padding-bottom: 30px;
+}
+
+
+#instructor{
+	display: inline-block;
+	padding-right: 110px;
+}
+
+#evening{
+	display: inline-block;
+	padding-right: 110px;
+}
+
+
+#map{
+	display: inline-block;
+	padding-right: 110px;
+}
+
+
+#education{
+	display: inline-block;
+}
+
+
+
+.testimonial{
+	width: 100%;
+	margin: 0 auto;
+}
+
+.testimonialcontainer{
+	max-width: 980px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+.testmonialtext{
+    display: inline-block;
+    text-align: left;
+    line-height: 30px;
+    width: 66%;
+}
+
+
+#inverted{
+	font-family: 'Nobile', sans-serif;
+	font-size: 60px;
+	color: #3b3b3b;
+}
+
+.testmonialtext p{
+	font-family: 'Nobile', sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 23px;
+	color: #3b3b3b;
+
+}
+
+#author{
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	display: block;
+
+	}
+
+.imagereview{
+	display: inline-block;
+	padding-top: 126px;
+
+}
+
+/*Footer*/
+
+.footercontainer{
+	width: 100%;
+	background-image: url(../desktopimages/footerduplicate.png); 
+	margin: 0 auto;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
+}
+
+footer{
+
+	max-width: 980px;
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+
+
+.footertext{
+	padding-top: 320px;
+	padding-bottom: 40px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 41px;
+	color: #ffffff;
+}
+
+.footerbutton img{
+	padding-bottom: 107px;
+}
+
+.designer{
+	max-width: 980px;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+.designer span{
+	color: white;
+	padding: 21px 0px 25px 0px;
+	display: inline-block;
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+
+}
+
+.designercontainer{
+	width: 100%;
+	margin: 0 auto;
+	background: black !important;
+
+}
+
+
+
+/*Media Queries*/
+/*Width 999px*/
+@media screen and (max-width: 992px) {
+
+.logonav img {
+    	padding: 33px 0px 45px 80px;
+	}
+
+
+.headertitle {
+	max-width: 980px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	color: #ffffff;
+	padding-top: 25px;
+	padding-bottom: 17px;
+	}
+
+.registerform {
+    max-width: 334px;
+    height: 588px;
+    background-color: #2f2f2f;
+    overflow: visible;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+
+
+
+
+#direction{
+	display: none;
+}
+
+form input {
+    padding: 10px 90px 17px 10px;
+    margin-bottom: 8px;
+}
+
+#dropdown {
+    padding: 16px 156px 17px 7px;
+    margin-bottom: 8px;
+}
+
+.submitbutton {
+    width: 315px;
+    height: 55px;
+    background: #ec6334;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+
+#twitch {
+    display: inline-block;
+    padding-right: 60px;
+}
+
+#adobe {
+    display: inline-block;
+    padding-right: 60px;
+}
+
+#linkedin {
+    display: inline-block;
+    padding-right: 60px;
+}
+
+#instructor {
+    display: inline-block;
+    padding-right: 80px;
+}
+
+#evening {
+    display: inline-block;
+    padding-right: 80px;
+}
+
+#map {
+    display: inline-block;
+    padding-right: 80px;
+}
+
+
+.testmonialtext {
+    
+    padding-right: 10px;
+
+}
+
+.testmonialtext p {
+    font-family: 'Nobile', sans-serif;
+    font-size: 23px;
+    color: #3b3b3b;
+}
+
+
+
+
+.footertext {
+    padding-top: 320px;
+    padding-bottom: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 39px;
+    color: #ffffff;
+}
+
+
+
+	
+
+}
+
+
+
+
+
+/*Media Queries*/
+/*Width 767px*/
+
+
+@media screen and (max-width: 767px) {
+
+/*Header Start*/
+
+
+.bannercontainer{
+	background-image: url(../mobileimages/header.png);
+	 background-size: 100% 100%;
+	background-repeat: no-repeat;
+	
+}
+
+
+
+.registerform ,.titlecontainer,.logocontainer,.banner,.companycontainer,.imagereview {
+
+	display: none;
+}
+
+
+
+.mobilecontainer{
+	display: block !important;
+	max-width: 766px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.mobilecontainer img{
+ padding-top: 50px;
+}
+
+
+.mobileheadcontainer{
+
+	display: block !important;
+	max-width: 766px;
+	margin: 0 auto;
+	text-align: center;
+	color: #ffffff;
+}
+
+
+#headtitle{
+
+	font-family: 'Montserrat', sans-serif;
+	font-size: 23px;
+	font-weight: 400;
+	color: #ffffff;
+	display: block;
+	padding: 66px 20px 20px 33px;
+	line-height: 30px;
+
+}
+
+#headtext{
+
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15.01px;
+	font-weight: normal;
+	display: block;
+	padding: 20px 50px 25px 55px;
+	line-height: 25px;
+	color: #bebfbf;
+
+}
+
+.buttonstarted img{
+
+	padding-bottom: 45px;
+	
+}
+
+
+/*Header End*/
+
+
+
+
+/*Content Start*/
+
+#instructor, #evening, #map,#education{
+   
+    display: block;
+    padding: 0px;
+    padding-top: 0px;
+}
+
+
+.features{
+	
+	max-width: 980px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 34px;
+}
+
+.features img {
+    padding-bottom: 20px;
+    /* padding-top: 50px; */
+    padding-top: 55px;
+}
+
+
+.testmonialtext{
+
+	padding-top: 70px;
+	width: 80%;
+}
+
+.testmonialtext p {
+    font-family: 'Nobile', sans-serif;
+    font-weight: normal;
+    font-size: 23px;
+    color: #3b3b3b;
+
+
+
+
+}
+
+/*Content End*/
+
+
+
+/*Footer Start*/
+
+
+.footertext {
+    padding-top: 320px;
+    padding-bottom: 40px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 23px;
+    color: #ffffff;
+}
+
+
+/*Footer Ends*/
+
+/*Media Queries*/
+/*Width 480px*/
+
+
+@media screen and (max-width: 480px) {
+
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
